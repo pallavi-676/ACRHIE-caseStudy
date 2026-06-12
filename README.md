@@ -321,21 +321,33 @@ Egyptian -> Babylonian -> Indian -> Chinese
 # 11. Screenshots
 
 
+<table>
+<tr>
+<td>
+<img src="https://github.com/user-attachments/assets/32da0913-5d34-4ad0-9750-8a3269c4cf5c" width="450">
+</td>
 
-<img src="https://github.com/user-attachments/assets/32da0913-5d34-4ad0-9750-8a3269c4cf5c" width ='450' />
+<td>
+<img src="https://github.com/user-attachments/assets/1574399a-89c2-4b84-a8fa-4c9956a4f94e" width="450">
+</td>
+</tr>
 
+<tr>
+<td>
+<img src="https://github.com/user-attachments/assets/46bb3a29-8dc3-4647-9bc7-5b966bb6b7c2" width="450">
+</td>
 
-<img src="https://github.com/user-attachments/assets/1574399a-89c2-4b84-a8fa-4c9956a4f94e" width="450" />
+<td>
+<img src="https://github.com/user-attachments/assets/249ad3ac-f3f2-4125-b4fb-4754bdbf09f1" width="450">
+</td>
+</tr>
 
-
-<img src="https://github.com/user-attachments/assets/46bb3a29-8dc3-4647-9bc7-5b966bb6b7c2" width="450" />
-
-
-<img src="https://github.com/user-attachments/assets/249ad3ac-f3f2-4125-b4fb-4754bdbf09f1" width="450" />
-
-
-<img src="https://github.com/user-attachments/assets/2fbaedae-bb5d-460e-9b06-a8ffe0a29fce" width="450" />
-
+<tr>
+<td colspan="2">
+<img src="https://github.com/user-attachments/assets/2fbaedae-bb5d-460e-9b06-a8ffe0a29fce" width="450">
+</td>
+</tr>
+</table>
 
 ---
 

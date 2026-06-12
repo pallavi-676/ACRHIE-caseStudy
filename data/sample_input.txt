@@ -1,0 +1,17 @@
+Artifacts:
+101,Rosetta Stone,Egyptian,-196,99
+102,Terracotta Army,Chinese,-210,95
+103,Dead Sea Scrolls,Jewish,-300,98
+104,Antikythera Mechanism,Greek,-100,96
+105,Code of Hammurabi,Babylonian,-1750,97
+
+TradeRoutes:
+Egyptian,Greek,800
+Egyptian,Babylonian,1200
+Greek,Babylonian,1500
+Babylonian,Indian,2500
+Indian,Chinese,3000
+
+Reports:
+1,Valley of Kings,2023-01-15,3,Uncovered new tomb annex
+2,Xi'an Pits,2023-02-20,15,Found more intact soldier statues

@@ -320,41 +320,22 @@ Egyptian -> Babylonian -> Indian -> Chinese
 
 # 11. Screenshots
 
-## Sorting Output
 
-(Add Screenshot Here)
 
-## BST Output
+<img src="https://github.com/user-attachments/assets/32da0913-5d34-4ad0-9750-8a3269c4cf5c" width ='450' />
 
-(Add Screenshot Here)
 
-## Hash Search Output
+<img src="https://github.com/user-attachments/assets/1574399a-89c2-4b84-a8fa-4c9956a4f94e" width="450" />
 
-(Add Screenshot Here)
 
-## Binary Search Output
+<img src="https://github.com/user-attachments/assets/46bb3a29-8dc3-4647-9bc7-5b966bb6b7c2" width="450" />
 
-(Add Screenshot Here)
 
-## Stack Undo Operation
+<img src="https://github.com/user-attachments/assets/249ad3ac-f3f2-4125-b4fb-4754bdbf09f1" width="450" />
 
-(Add Screenshot Here)
 
-## Queue Processing
+<img src="https://github.com/user-attachments/assets/2fbaedae-bb5d-460e-9b06-a8ffe0a29fce" width="450" />
 
-(Add Screenshot Here)
-
-## BFS Traversal
-
-(Add Screenshot Here)
-
-## DFS Traversal
-
-(Add Screenshot Here)
-
-## Dijkstra Output
-
-(Add Screenshot Here)
 
 ---
 

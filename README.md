@@ -373,6 +373,4 @@ The case study fulfills all specified requirements while providing a scalable fo
 
 ---
 
-# 14. GitHub Repository
 
-(Add GitHub Repository Link Here)
